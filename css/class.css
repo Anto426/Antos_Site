@@ -1,14 +1,12 @@
-.darktheme {
-    background-color: rgb(0, 0, 0);
-  }
-
-body{
-    background-color: black;
-}
-h1{
-    color:white;
+.textallinigcenter{
     text-align: center;
 }
-p{
-    color: white;
+.textallinigleft{
+    text-align: left;
+}
+.textallinigrigth{
+    text-align: right;
+}
+.itemsallinigallinigcenter{
+    align-items: center;
 }
