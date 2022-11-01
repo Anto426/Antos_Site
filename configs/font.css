@@ -2,6 +2,11 @@ body{
     color: white;
     background-color: black;
 }
+.textthemec{
+    color: currentColor;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+} 
 .textallingcenter{
     text-align: center;
 }

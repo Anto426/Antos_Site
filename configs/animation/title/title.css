@@ -1,5 +1,8 @@
-.title{
-    color: currentColor;
-    opacity: 1;
-    
+.title {
+    width: 1420pt;
+	height: auto ;
+    border-radius: 23px;
+    background-color:currentColor; 
+    opacity: 0.5;
+    line-height: 50px; 
 }
