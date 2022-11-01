@@ -1,0 +1,28 @@
+.menu{
+    width:14%;
+	height: 1000px;
+    border-radius: 23px;
+    background-color:currentColor; 
+    opacity: 0.5;
+    line-height: 50px;
+}
+menu:link {
+    color: currentColor;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  menu:visited {
+    color: currentColor;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  menu:hover {
+    color: currentColor;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  menu:active {
+    color: currentColor;
+    background-color: transparent;
+    text-decoration: underline;
+  }
